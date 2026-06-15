@@ -15,15 +15,15 @@ public class Ravi {
       
         int intBonus = (int) bonus;
 
-        System.out.println("================================");
+        System.out.println("  ");
         System.out.println("      CODING GUILD WELCOME      ");
-        System.out.println("================================");
+        System.out.println("  ");
         System.out.println("Name           : " + name);
         System.out.println("Age            : " + age);
         System.out.println("Rank           : " + rank);
         System.out.println("Salary         : " + salary);
         System.out.println("Membership Fee : " + membershipFee);
         System.out.println("Annual Bonus   : " + intBonus);
-        System.out.println("================================");
+        System.out.println("  ");
     }
 }
