@@ -1,0 +1,17 @@
+
+===== REPORT CARD =====
+Name: Rahul | Marks: 80
+Name: 90 | Marks: 85
+Name: 70 | Marks: 95
+Name: Priya | Marks: 90
+Name: 88 | Marks: 92
+Name: 85 | Marks: 91
+Name: Aman | Marks: 75
+Name: 80 | Marks: 70
+Name: 78 | Marks: 82
+Name: Neha | Marks: 95
+Name: 94 | Marks: 96
+Name: 97 | Marks: 98
+----------------------
+Class Average: 87.41666666666667
+                      

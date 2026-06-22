@@ -1,6 +1,6 @@
 package core_java_practice.scenario_based_problems;
 
-public class HospitalBilling {
+import java.util.Scanner;
 
 
 class InsufficientFundsException extends Exception {
@@ -9,7 +9,7 @@ class InsufficientFundsException extends Exception {
     }
 }
 
-public class HospitalBillingSystem {
+public class HospitalBilling{
 
     public static void main(String[] args) {
 
@@ -66,4 +66,4 @@ public class HospitalBillingSystem {
 
         sc.close();
     }
-}}
+}

@@ -35,7 +35,7 @@ public class SchoolReport {
 
             writer.write("----------------------\n");
             writer.write("Class Average: " + average + "\n");
-            writer.write("======================\n");
+            writer.write("                      \n");
 
             fileReader.close();
             writer.close();

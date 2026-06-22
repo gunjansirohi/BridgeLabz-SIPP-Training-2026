@@ -1,0 +1,18 @@
+===== STUDENT REPORT =====
+
+Name  : Neha
+Total : 480
+Grade : A+
+----------------------
+Name  : Priya
+Total : 446
+Grade : B+
+----------------------
+Name  : Rahul
+Total : 420
+Grade : B
+----------------------
+Name  : Aman
+Total : 385
+Grade : C
+----------------------
