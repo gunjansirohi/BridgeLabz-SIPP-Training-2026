@@ -33,7 +33,7 @@ public class SchoolReport {
 
             double average = total / count;
 
-            writer.write("----------------------\n");
+            writer.write("                  \n");
             writer.write("Class Average: " + average + "\n");
             writer.write("                      \n");
 
